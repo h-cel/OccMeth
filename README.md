@@ -1,7 +1,8 @@
 # OccMeth
 Comparison of occurrence methods
 
-Cite as
+Cite as [![DOI](https://zenodo.org/badge/372773874.svg)](https://zenodo.org/badge/latestdoi/372773874).
+
 
 ## General overview
 
